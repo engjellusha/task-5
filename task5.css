@@ -1,0 +1,37 @@
+img{
+    margin-top:73px;
+    margin-left:122px;
+
+}
+body{
+    margin:0px;
+}
+
+.container{
+    margin-top:73px;
+    margin-left:122px; 
+}
+
+div p{
+    line-height: 170px;
+    text-decoration: underline;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    
+}
+.box{
+    margin: 10px;
+    width:260px;
+    display:inline-block;
+}
+
+.html { background-color: rgb(189, 113, 22); }
+.css { background-color: rgb(33, 140, 255); }
+.bs { background-color: rgb(75, 51, 234); }
+.js { background-color: rgb(225, 225, 20); }
+.react { background-color: rgb(5, 82, 142); }
+.php { background-color: rgb(14, 109, 205); }
+.laravel { background-color: rgb(237, 112, 67); }
+.python { background-color: rgb(230, 230, 11); }
+.django { background-color: rgb(3, 109, 106); }
